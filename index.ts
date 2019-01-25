@@ -22,8 +22,8 @@ server.connection({ port });
       register: HapiSwagger,
       options: {
         info: {
-          title: 'v3 -Node.js with MongoDB Example - João Voando no K8S',
-          version: '3.0',
+          title: 'v4 -Node.js with MongoDB Example - K8S é nois',
+          version: '4.0',
         },
       },
     },
